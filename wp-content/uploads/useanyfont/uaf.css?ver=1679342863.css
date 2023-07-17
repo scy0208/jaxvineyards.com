@@ -1,0 +1,28 @@
+				@font-face {
+					font-family: 'gotham-light';
+					src: url('5213Gotham-Light.woff2') format('woff2'),
+						url('5213Gotham-Light.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.gotham-light{font-family: 'gotham-light' !important;}
+
+						@font-face {
+					font-family: 'gotham-light-class';
+					src: url('1593-Gotham-light-Class.woff2') format('woff2'),
+						url('1593-Gotham-light-Class.woff') format('woff');
+					font-weight: 200; font-style: normal; font-display: auto;
+				}
+
+				.gotham-light-class{font-family: 'gotham-light-class' !important;}
+
+						@font-face {
+					font-family: 'gotham-light';
+					src: url('6672Gotham-light.woff2') format('woff2'),
+						url('6672Gotham-light.woff') format('woff');
+					font-weight: 100; font-style: normal; font-display: auto;
+				}
+
+				.gotham-light{font-family: 'gotham-light' !important;}
+
+		
